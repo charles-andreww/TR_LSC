@@ -59,7 +59,7 @@ Les connexions són a l'esquema del treball i als comentaris de `firmware/LSC_Le
 - [Arduino IDE](https://www.arduino.cc/en/software) amb les plaques ESP32 (Espressif).
 - Python 3 i les biblioteques de `pc/requirements.txt`.
 
-## model
+## Model
 El model reconeix 23 signes i una classe de repòs:
  
 - **Paraules:** HOLA, BON DIA, JO, TU, GRÀCIES, SI US PLAU, AIGUA, AJUDAR, ANAR, ESTIMAR, FER, VOLER, SÍ, NO, QUÈ, ON, QUAN, QUI
